@@ -1,0 +1,421 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|d:\\tdtu\\design pattern\\final\\designpattern\\source\\khachsan\\khachsan\\migrations\\20240410064610_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\migrations\\20240410064610_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\areas\\admin\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\areas\\admin\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\areas\\admin\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\models\\qlkscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\models\\qlkscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\areas\\admin\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\controllers\\roomcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\controllers\\servicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\models\\bookingservicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\models\\bookingservicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\models\\bookingroomdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\models\\bookingroomdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\views\\room\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\views\\room\\searchresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\views\\booking\\viewdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\views\\booking\\viewdetail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\areas\\admin\\views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\areas\\admin\\views\\room\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\khachsan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20240410064610_Init.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Migrations\\20240410064610_Init.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Migrations\\20240410064610_Init.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Migrations\\20240410064610_Init.cs",
+              "RelativeToolTip": "KhachSan\\Migrations\\20240410064610_Init.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAQwDgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:46:11.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "KhachSan\\DatabaseConnection.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\DatabaseConnection.cs",
+              "RelativeToolTip": "KhachSan\\DatabaseConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:32:03.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Areas\\Admin\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Areas\\Admin\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Areas\\Admin\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "KhachSan\\Areas\\Admin\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAkwAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:14:14.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KhachSan\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:13:32.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\appsettings.json",
+              "RelativeDocumentMoniker": "KhachSan\\appsettings.json",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\appsettings.json",
+              "RelativeToolTip": "KhachSan\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T08:11:07.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "KhachSan\\Areas\\Admin\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:14:15.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "QLKSContext.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Models\\QLKSContext.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Models\\QLKSContext.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Models\\QLKSContext.cs",
+              "RelativeToolTip": "KhachSan\\Models\\QLKSContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:13:08.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Program.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Program.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Program.cs",
+              "RelativeToolTip": "KhachSan\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:10:48.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Areas\\Admin\\Controllers\\UserController.cs",
+              "RelativeToolTip": "KhachSan\\Areas\\Admin\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:14:16.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Models\\User.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Models\\User.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Models\\User.cs",
+              "RelativeToolTip": "KhachSan\\Models\\User.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:24:48.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ServiceController.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\ServiceController.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Controllers\\ServiceController.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\ServiceController.cs",
+              "RelativeToolTip": "KhachSan\\Controllers\\ServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:12:18.312Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\UserController.cs",
+              "RelativeToolTip": "KhachSan\\Controllers\\UserController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:12:23.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Models\\Room.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Models\\Room.cs",
+              "RelativeToolTip": "KhachSan\\Models\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:12:15.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\CartController.cs",
+              "RelativeToolTip": "KhachSan\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAEgAAAAAAAAAAAAowC4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:10:47.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RoomController.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\RoomController.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Controllers\\RoomController.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\RoomController.cs",
+              "RelativeToolTip": "KhachSan\\Controllers\\RoomController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:10:48.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "KhachSan\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:10:48.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BookingServiceDetail.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Models\\BookingServiceDetail.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Models\\BookingServiceDetail.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Models\\BookingServiceDetail.cs",
+              "RelativeToolTip": "KhachSan\\Models\\BookingServiceDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:12:14.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingRoomDetail.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Models\\BookingRoomDetail.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Models\\BookingRoomDetail.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Models\\BookingRoomDetail.cs",
+              "RelativeToolTip": "KhachSan\\Models\\BookingRoomDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-31T08:12:13.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "KhachSan\\appsettings.Development.json",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\appsettings.Development.json",
+              "RelativeToolTip": "KhachSan\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-31T08:11:03.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ViewDetail.cshtml",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Views\\Booking\\ViewDetail.cshtml",
+              "RelativeDocumentMoniker": "KhachSan\\Views\\Booking\\ViewDetail.cshtml",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Views\\Booking\\ViewDetail.cshtml",
+              "RelativeToolTip": "KhachSan\\Views\\Booking\\ViewDetail.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T08:10:48.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Areas\\Admin\\Views\\Room\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhachSan\\Areas\\Admin\\Views\\Room\\Index.cshtml",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Areas\\Admin\\Views\\Room\\Index.cshtml",
+              "RelativeToolTip": "KhachSan\\Areas\\Admin\\Views\\Room\\Index.cshtml",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T08:10:48.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "KhachSan\\Views\\User\\Register.cshtml",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "KhachSan\\Views\\User\\Register.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T08:10:48.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "KhachSan\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "KhachSan\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T08:10:48.429Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhachSan\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "KhachSan\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAB4AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T08:10:48.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SearchResult.cshtml",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Views\\Room\\SearchResult.cshtml",
+              "RelativeDocumentMoniker": "KhachSan\\Views\\Room\\SearchResult.cshtml",
+              "ToolTip": "D:\\TDTU\\design pattern\\final\\designpattern\\source\\KhachSan\\KhachSan\\Views\\Room\\SearchResult.cshtml",
+              "RelativeToolTip": "KhachSan\\Views\\Room\\SearchResult.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-31T08:10:48.445Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
