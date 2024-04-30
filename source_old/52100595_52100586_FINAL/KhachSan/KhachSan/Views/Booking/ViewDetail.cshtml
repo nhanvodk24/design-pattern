@@ -1,0 +1,66 @@
+﻿@{
+    var bookingRoomDetails = ViewData["bookingRoomDetails"] as List<BookingRoomDetail>;
+    var bookingServiceDetails = ViewData["bookingServiceDetails"] as List<BookingServiceDetail>;
+    var bookId = ViewData["bookId"];
+}
+<div class="container px-3 my-5 clearfix">
+    <div class="card">
+        <div class="card-header">
+            <h2>Chi tiết đơn đặt @bookId</h2>
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <h3>Phòng</h3>
+                <table class="table table-bordered m-0">
+                    <thead>
+                        <tr>
+                            <th class="text-center py-3 px-4">Mã phòng</th>
+                            <th class="text-center py-3 px-4">Check in</th>
+                            <th class="text-right py-3 px-4">Check out</th>
+                            <th class="text-right py-3 px-4">Tổng tiền</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (bookingRoomDetails != null)
+                        {
+                            @foreach (var room in bookingRoomDetails)
+                            {
+                                <tr>
+                                    <td class="text-right font-weight-semibold align-middle p-4">@room.roomId</td>
+                                    <td class="text-right font-weight-semibold align-middle p-4">@room.checkIn</td>
+                                    <td class="text-right font-weight-semibold align-middle p-4">@room.checkOut</td>
+                                    <td class="text-right font-weight-semibold align-middle p-4">@room.toTalPrice</td>
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+                <h3>Dịch vụ</h3>
+                <table class="table table-bordered m-0">
+                    <thead>
+                        <tr>
+                            <th class="text-center py-3 px-4">Mã dịch vụ</th>
+                            <th class="text-center py-3 px-4">Giá</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @if (bookingServiceDetails != null)
+                        {
+                            @foreach (var service in bookingServiceDetails)
+                            {
+                                <tr>
+                                    <td class="text-right font-weight-semibold align-middle p-4">@service.serviceId</td>
+                                    <td class="text-right font-weight-semibold align-middle p-4">@service.toTalPrice</td>
+                        
+                                </tr>
+                            }
+                        }
+                    </tbody>
+                </table>
+            </div>
+            <div class="float-right">
+                <a asp-controller="Booking" asp-action="Index" type="button" class="btn btn-lg btn-default md-btn-flat mt-2 mr-3">Quay lại</a>
+            </div>
+        </div>
+    </div>
+</div>

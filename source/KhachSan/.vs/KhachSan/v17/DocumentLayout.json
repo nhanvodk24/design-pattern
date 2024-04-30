@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|d:\\tdtu\\design pattern\\designpattern\\source\\khachsan\\khachsan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\khachsan\\viewmodel\\cartroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\viewmodel\\cartroomviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|d:\\tdtu\\design pattern\\designpattern\\source\\khachsan\\khachsan\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\khachsan\\observer\\icartsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\observer\\icartsubject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\khachsan\\observer\\cartobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\observer\\cartobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\khachsan\\observer\\icartobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\observer\\icartobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\khachsan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\khachsan\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\khachsan\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\views\\cart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\khachsan\\commands\\bookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\commands\\bookingcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\khachsan\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\khachsan\\decorator\\totalwservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\decorator\\totalwservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\khachsan\\decorator\\totalpricedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\decorator\\totalpricedecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\khachsan\\decorator\\totalprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\decorator\\totalprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\khachsan\\decorator\\itotalprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECC80E53-6E3B-4667-926B-AEEA05E91720}|KhachSan\\KhachSan.csproj|solutionrelative:khachsan\\decorator\\itotalprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\appsettings.json",
+              "RelativeDocumentMoniker": "KhachSan\\appsettings.json",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\appsettings.json",
+              "RelativeToolTip": "KhachSan\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-30T15:26:15.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ICartObserver.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Observer\\ICartObserver.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Observer\\ICartObserver.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Observer\\ICartObserver.cs",
+              "RelativeToolTip": "KhachSan\\Observer\\ICartObserver.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:11:40.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "totalWService.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Decorator\\totalWService.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Decorator\\totalWService.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Decorator\\totalWService.cs",
+              "RelativeToolTip": "KhachSan\\Decorator\\totalWService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBEAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:19:51.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TotalPriceDecorator.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Decorator\\TotalPriceDecorator.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Decorator\\TotalPriceDecorator.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Decorator\\TotalPriceDecorator.cs",
+              "RelativeToolTip": "KhachSan\\Decorator\\TotalPriceDecorator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:18:40.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TotalPrice.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Decorator\\TotalPrice.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Decorator\\TotalPrice.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Decorator\\TotalPrice.cs",
+              "RelativeToolTip": "KhachSan\\Decorator\\TotalPrice.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:17:21.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ITotalPrice.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Decorator\\ITotalPrice.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Decorator\\ITotalPrice.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Decorator\\ITotalPrice.cs",
+              "RelativeToolTip": "KhachSan\\Decorator\\ITotalPrice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T06:15:41.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Views\\Cart\\Index.cshtml",
+              "RelativeDocumentMoniker": "KhachSan\\Views\\Cart\\Index.cshtml",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Views\\Cart\\Index.cshtml",
+              "RelativeToolTip": "KhachSan\\Views\\Cart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-30T03:03:22.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartRoomViewModel.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\ViewModel\\CartRoomViewModel.cs",
+              "RelativeDocumentMoniker": "KhachSan\\ViewModel\\CartRoomViewModel.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\ViewModel\\CartRoomViewModel.cs",
+              "RelativeToolTip": "KhachSan\\ViewModel\\CartRoomViewModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:42:29.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Controllers\\CartController.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\CartController.cs",
+              "RelativeToolTip": "KhachSan\\Controllers\\CartController.cs",
+              "ViewState": "AQIAAGEAAAAAAAAAAAAwwGwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:42:19.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CartObserver.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Observer\\CartObserver.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Observer\\CartObserver.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Observer\\CartObserver.cs",
+              "RelativeToolTip": "KhachSan\\Observer\\CartObserver.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAADwvwYAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:25:26.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "KhachSan\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:32:44.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICartSubject.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Observer\\ICartSubject.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Observer\\ICartSubject.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Observer\\ICartSubject.cs",
+              "RelativeToolTip": "KhachSan\\Observer\\ICartSubject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T07:39:00.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookingCommand.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Commands\\BookingCommand.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Commands\\BookingCommand.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Commands\\BookingCommand.cs",
+              "RelativeToolTip": "KhachSan\\Commands\\BookingCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:29:48.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Controllers\\BookingController.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "KhachSan\\Controllers\\BookingController.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAuwDkAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:18:12.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "KhachSan\\Models\\Booking.cs",
+              "ToolTip": "D:\\TDTU\\design pattern\\designpattern\\source\\KhachSan\\KhachSan\\Models\\Booking.cs",
+              "RelativeToolTip": "KhachSan\\Models\\Booking.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAQwE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-30T02:04:55.84Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
